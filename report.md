@@ -39,6 +39,16 @@ Fully Connected Layer with ReLU activation (64 nodes)
 
 Output nodes (4 nodes)
 
+### Plot of rewards
+
+Agent is able to receive an average reward (over 100 episodes) of at least +13:
+
+Environment solved in 412 episodes. 
+
+Average score: 13.04
+
+![alt text](https://github.com/AlperTekeli/udacity-drl-navigation/blob/main/score.png)
+
 ### Ideas for Future Work
 
 Following methods can be used to further improve the algorithm (explanations from Udacity DRL course content):
